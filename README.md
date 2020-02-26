@@ -20,3 +20,4 @@ and a file with name {random string}-{key} will be created in the same place whe
 Please see the screenshot1.png for the test on postman
 
 2. for the sign up, simply open the signup.html on chrome or whatever browser
+note the round corner 2px requirements has been taken care by the bootstrap's border radius 4px
